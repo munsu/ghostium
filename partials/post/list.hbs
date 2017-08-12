@@ -7,9 +7,12 @@
       </a>
     </h2>
   </header>
-  <section itemprop="description" class="post-item-excerpt">
+  {{!-- <section itemprop="description" class="post-item-excerpt">
     <p>{{excerpt words="35"}}&hellip;</p>
-  </section>
+  </section> --}}
+  <div itemprop="articleBody" class="post-body">
+    {{content}}
+  </div>
   <footer class="post-item-footer">
     <ul class="post-item-meta-list">
       <li class="post-item-meta-item">
