@@ -1,10 +1,14 @@
+# This fork
+
+A fork of the Ghostium repo for a [blog's](https://secret-hill.com) use.
+
+
 # Ghostium
 
 ![Ghostium](http://i.imgur.com/m5VcTBl.png)
 
 > A [Ghost](https://ghost.org/) theme focused on content based on [Medium](https://medium.com) design/ux.
 
-**NOT UNDER ACTIVE DEVELOPMENT**
 
 ## Table of contents
 
